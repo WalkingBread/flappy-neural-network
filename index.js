@@ -2,7 +2,7 @@ var ctx, width, height;
 
 var population;
 var pillars = [];
-var game_speed = 20;
+var game_speed = 10;
 var distance_covered = 0;
 var record = 0;
 
